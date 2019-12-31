@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StandaloneTarget>
+    <PythonInterpreter>
+      <Id>Global|PythonCore|2.7-32</Id>
+    </PythonInterpreter>
+    <WorkingDirectory>C:\Users\szmicio\Desktop\aldas2\PROGRAMY\r01\temperature_preferences</WorkingDirectory>
+    <Script>C:\Users\szmicio\Desktop\aldas2\PROGRAMY\r01\temperature_preferences\knn_to_data.py</Script>
+    <Arguments />
+  </StandaloneTarget>
+  <UseVTune>false</UseVTune>
+</ProfilingTarget>
